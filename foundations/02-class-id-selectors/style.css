@@ -1,0 +1,19 @@
+.oddNum {
+    background-color: rgb(255, 182, 194);
+    font-family: 'Verdana' 'DejaVu Sans' 'sans-serif';
+}
+
+#secEle {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.coolClass {
+    font-size: 24px;
+}
+
+#forthEle {
+    background-color: rgb(41, 231, 120);
+    font-size: 24px;
+    font-weight: bold;
+}
